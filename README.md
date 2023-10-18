@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Saya sedang berkuliah di Jurusan Teknik Informatika di Universitas Islam Negeri Sunan Gunung Djati Bandung. Saya memiliki minat yang luas pada pengembangan perangkat lunak, dua di antaranya adalah _data science_, _machine learning_, dan _game development_. Saat ini, saya sedang mengikuti program IDCamp 2023 jalur _Machine Learning_. 
+
+📫 How to reach me: 
+- ![LinkedIn](https://www.linkedin.com/in/dimas-thariq-susanto-529655226/)
+- ![Instagram](https://instagram.com/zalks_75?igshid=YTQwZjQ0NmI0OA==)
+- ![Twitter](https://twitter.com/DimasTS_75)
